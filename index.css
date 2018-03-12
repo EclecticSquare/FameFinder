@@ -5,8 +5,13 @@ html, body {
     padding: 0;
  }
  
- nav.navbar.navbar-light.bg-light {
-     background-color: darkgray;
+ nav.logoLine.navbar.navbar-light {
+     background-color:#35302F;
+     
+ }
+
+ span.navbar-brand.mb-0.h1 {
+    color: lightgray;
  }
 #map {
 
